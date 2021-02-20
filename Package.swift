@@ -1,11 +1,4 @@
-//
-//  Package.swift
-//  
-//
-//  Created by Ron Polenthon on 20.02.21.
-//
-
-// swift-tools-version:5.0
+// swift-tools-version:5.3
 
 import PackageDescription
 
